@@ -6,4 +6,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Domain\Identity\" />
+    <Folder Include="Domain\Games\" />
+    <Folder Include="Features\Auth\" />
+    <Folder Include="Features\MatchUp\" />
+    <Folder Include="Features\Registration\" />
+    <Folder Include="Infrastructure\" />
+  </ItemGroup>
+
 </Project>
